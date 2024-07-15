@@ -1,23 +1,43 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="~/lib/beercss/dist/cdn/beer.min.css" />
     <link rel="stylesheet" href="~/lib/beercss/dist/src/beer.min.css" />
+    <title>@ViewData["Title"] - Taskify</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h3 class="max">Taskify</h3>
+            <button class="small-round">
+                <i>add</i>
+                <span>Button</span>
+            </button>
+            <div class="field suffix small border">
+                <select>
+                    <option>Item 1</option>
+                    <option>Item 2</option>
+                    <option>Item 3</option>
+                </select>
+                <i>arrow_drop_down</i>
+            </div>
+            <button class="circle transparent">
+                <img class="responsive" src="/favicon.png">
+            </button>
+        </nav>
+    </header>
+    <main role="main" class="responsive">
+        @RenderBody()
+    </main>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script href="~/lib/beercss/dist/cdn/beer.min.js"></script>
     <script href="~/lib/beercss/dist/src/beer.min.js"></script>
-    <title>@ViewData["Title"] - Taskify.MVC</title>
-</head>
-<body>
-    <div>
-        <main role="main">
-            <button>Hello</button>
-            @RenderBody()
-        </main>
-    </div>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
+
 </html>
