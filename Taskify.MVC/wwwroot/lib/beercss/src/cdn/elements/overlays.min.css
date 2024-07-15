@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/elements/overlays.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+.overlay{opacity:0;visibility:hidden;position:fixed;inset:0 auto auto 0;inline-size:100%;block-size:100%;color:var(--on-surface);background-color:var(--overlay);z-index:100;transition:all var(--speed3),0s background-color}nav>.overlay{z-index:0}.overlay.active{opacity:1;visibility:visible}
+/*# sourceMappingURL=/sm/0127b9b6da350626ef3961d4ce708d233a4221507fbdd752dca27ac49e3f1b8c.map */

@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/helpers/blurs.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+[class*=blur],[class*=blur].light{---blur:1rem;-webkit-backdrop-filter:blur(var(---blur));backdrop-filter:blur(var(---blur));color:var(--on-surface);background-color:rgb(255 255 255 / .5)}.dark [class*=blur],[class*=blur].dark{background-color:rgb(0 0 0 / .5)}.small-blur{---blur:0.5rem}.large-blur{---blur:1.5rem}
+/*# sourceMappingURL=/sm/5597f9006979e7419bc8375a725b6c10583663a70acff9d579330b87dee7a44a.map */

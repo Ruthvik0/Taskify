@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/helpers/shadows.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+.shadow{background-color:#00000050}:is(.left-shadow,.right-shadow,.top-shadow,.bottom-shadow){background-color:transparent!important}.left-shadow{background-image:linear-gradient(to right,#000,transparent)}.right-shadow{background-image:linear-gradient(to left,#000,transparent)}.bottom-shadow{background-image:linear-gradient(to top,#000,transparent)}.top-shadow{background-image:linear-gradient(to bottom,#000,transparent)}
+/*# sourceMappingURL=/sm/e6764e9a5657859405514a25ce04ded01a65318d7c6aca38fc350d6a4e000903.map */

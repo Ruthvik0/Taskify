@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/elements/tables.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+table{---stripes:rgb(0 0 0 / 0.05);inline-size:100%;border-spacing:0;font-size:.875rem;color:var(--on-surface);text-align:start;background-color:var(--surface)}.dark table{---stripes:rgb(255 255 255 / 0.05)}table :is(thead,tbody,tfoot,tr,th){background-color:inherit}:is(th,td){inline-size:auto;max-inline-size:1rem;text-align:inherit;padding:.5rem}:is(th,td)>*{vertical-align:middle}table.border>tbody>tr:not(:last-child)>td,thead>tr>th{border-block-end:0.0625rem solid var(--outline)}tfoot>tr>th{border-block-start:0.0625rem solid var(--outline)}table.stripes>tbody>tr:nth-child(odd){background-color:var(---stripes)}table.no-space :is(th,td){padding:0}table.medium-space :is(th,td){padding:.75rem}table.large-space :is(th,td){padding:1rem}table>.fixed,th.fixed{position:sticky;z-index:1;inset-block-start:0}tfoot th.fixed,tfoot.fixed{inset-block-end:0}:is(td,th).min{inline-size:0;max-inline-size:0%;white-space:nowrap}
+/*# sourceMappingURL=/sm/e6c30a11ccdcb47711e2411f9b9b27e1f9de234254dc907f3f9d6ef0bf4a441a.map */

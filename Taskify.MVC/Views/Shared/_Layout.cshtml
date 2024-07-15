@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/beercss/dist/cdn/beer.min.css" />
+    <link rel="stylesheet" href="~/lib/beercss/dist/src/beer.min.css" />
+    <script href="~/lib/beercss/dist/cdn/beer.min.js"></script>
+    <script href="~/lib/beercss/dist/src/beer.min.js"></script>
+    <title>@ViewData["Title"] - Taskify.MVC</title>
+</head>
+<body>
+    <div>
+        <main role="main">
+            <button>Hello</button>
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

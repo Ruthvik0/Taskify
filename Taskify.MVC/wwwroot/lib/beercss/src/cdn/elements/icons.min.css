@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/elements/icons.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+i{---size:1.5rem;font-family:var(--font-icon);font-weight:400;font-style:normal;font-size:var(---size);letter-spacing:normal;text-transform:none;display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;word-wrap:normal;direction:ltr;font-feature-settings:"liga";-webkit-font-smoothing:antialiased;vertical-align:middle;text-align:center;overflow:hidden;inline-size:var(---size);min-inline-size:var(---size);block-size:var(---size);min-block-size:var(---size);box-sizing:content-box;line-height:normal}i.tiny{---size:1rem}.chip>i,i.small{---size:1.25rem}i.medium{---size:1.5rem}i.large{---size:1.75rem}i.extra{---size:2rem}.transparent:is(:hover,:focus)>i,a.row:is(:hover,:focus)>i,i.fill{font-variation-settings:"FILL" 1}i>:is(img,svg){inline-size:100%;block-size:100%;background-size:100%;border-radius:inherit;position:absolute;inset:0 auto auto 0;padding:inherit}i[class*=fa-]{font-size:calc(var(---size) * .85);line-height:normal;block-size:auto;min-block-size:auto}
+/*# sourceMappingURL=/sm/ee4d079ae3d369dd8d15bc87c84e1cb77c6531bd5422e4b8a78f7f626fc8237f.map */

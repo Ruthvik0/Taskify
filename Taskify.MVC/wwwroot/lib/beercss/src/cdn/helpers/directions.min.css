@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/helpers/directions.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+.horizontal{display:inline-flex;flex-direction:row!important;gap:1rem;inline-size:auto!important;max-inline-size:none!important}.horizontal>*{margin-block:0!important}.vertical{display:flex;flex-direction:column!important}:is(a,button,.button,.chip).vertical{display:inline-flex;gap:.25rem;block-size:auto!important;max-block-size:none!important;padding-block:0.5rem}.vertical>*{margin-inline:0!important}
+/*# sourceMappingURL=/sm/ac7cb9164b820f0160167134954951cbeaedb8cea7a8709b97453480c00dc7b1.map */

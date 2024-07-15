@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "jsdelivr",
+      "library": "beercss@3.6.8",
+      "destination": "wwwroot/lib/beercss"
+    }
+  ]
+}

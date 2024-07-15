@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/helpers/positions.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+.front{z-index:10!important}.back{z-index:-10!important}.left{inset-inline-start:0}.right{inset-inline-end:0}.top{inset-block-start:0}.bottom{inset-block-end:0}.center{inset-inline-start:50%;transform:translateX(-50%)}[dir=rtl] .center{transform:translateX(50%)}.middle{inset-block-start:50%;transform:translateY(-50%)}.middle.center{transform:translate(-50%,-50%)}[dir=rtl] .middle.center{transform:translate(50%,-50%)}
+/*# sourceMappingURL=/sm/fb21bdd9c3b001432e386b0276c453f8e9c58054724017d1f71524799b2e51af.map */

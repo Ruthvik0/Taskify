@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/helpers/waves.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+.chip::after,.wave::after,:is(.button,button)::after,:is(nav.tabbed,.tabs)>a::after{content:"";position:absolute;inset:0;z-index:1;border-radius:inherit;inline-size:100%;block-size:100%;background-position:center;background-image:radial-gradient(circle,rgb(128 128 128 / .192) 1%,transparent 1%);opacity:0;transition:none}:is(.wave,.chip,.button,button,nav.tabbed > a,.tabs > a):is(:focus-visible,:hover)::after{background-size:15000%;opacity:1;transition:background-size var(--speed2) linear}:is(.wave,.chip,.button,button,nav.tabbed > a,.tabs > a):active::after{background-size:5000%;opacity:0;transition:none}.no-wave::after,.no-wave:is(:hover,:active)::after{display:none}
+/*# sourceMappingURL=/sm/d13f29bb3297227832f9badb570260982c48cc67602eae68ca6dd6a6f5faa9fc.map */

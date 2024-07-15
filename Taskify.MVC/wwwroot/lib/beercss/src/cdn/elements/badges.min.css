@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/elements/badges.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+.badge{display:inline-flex;align-items:center;justify-content:center;position:absolute;font-size:.6875rem;text-transform:none;z-index:2;padding:0 .25rem;min-block-size:1rem;min-inline-size:1rem;background-color:var(--error);color:var(--on-error);line-height:normal;border-radius:1rem;inset:50% auto auto 50%;transform:translate(0,-100%);font-family:var(--font)}.badge.top{transform:translate(-50%,-100%)}.badge.bottom{transform:translate(-50%,0)}.badge.left{transform:translate(-100%,-50%)}.badge.right{transform:translate(0,-50%)}.badge.top.left{transform:translate(-100%,-100%)}.badge.bottom.left{transform:translate(-100%,0)}.badge.top.right{transform:translate(0,-100%)}.badge.bottom.right{transform:translate(0,0)}.badge.border{border-color:var(--error);color:var(--error);background-color:var(--surface)}.badge:is(.circle,.square){text-align:center;inline-size:auto;block-size:auto;padding:0 .25rem;border-radius:1rem}.badge.square{border-radius:0}.badge.min>*{display:none}.badge.min{clip-path:circle(18.75% at 50% 50%)}nav:is(.left,.right,.top,.bottom)>:is(ol,ul)>li>a>.badge,nav:is(.left,.right,.top,.bottom)>a>.badge{inset:1rem auto auto 50%}.badge.none{inset:auto!important;transform:none;position:relative;margin:0 .125rem}:is(button,.button,.chip)>.badge.none{margin:0 -.5rem}
+/*# sourceMappingURL=/sm/8b0cc68a66a0200922ee7af1b94928f0fccd061d88f94b7a5871c8bc0f0c421f.map */

@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/helpers/reset.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+*{-webkit-tap-highlight-color:transparent;position:relative;vertical-align:middle;color:inherit;margin:0;padding:0;border-radius:inherit;box-sizing:border-box}body{color:var(--on-surface);background-color:var(--surface);overflow-x:hidden}label{font-size:.75rem;vertical-align:baseline}a,b,i,span,strong{vertical-align:bottom}.button,a,button{cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;border:none;font-family:inherit;outline:inherit;justify-content:center}.button,a,button,i,label{user-select:none}body ::-webkit-scrollbar,body ::-webkit-scrollbar-button,body ::-webkit-scrollbar-thumb{background:0 0;inline-size:0.4rem;block-size:0.4rem}body :is(:hover,:focus)::-webkit-scrollbar-thumb{background:var(--outline);border-radius:1rem}code,pre{direction:ltr}
+/*# sourceMappingURL=/sm/0c6877cd258b3b407de53e714781c858f323425504531f2cc4f04f1ffb8b2937.map */

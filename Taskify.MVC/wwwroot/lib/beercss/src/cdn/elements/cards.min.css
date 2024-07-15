@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/elements/cards.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+article{box-shadow:var(--elevate1);background-color:var(--surface-container-low);color:var(--on-surface);padding:1rem;border-radius:.75rem;display:block;transition:transform var(--speed3),border-radius var(--speed3),padding var(--speed3)}*+article{margin-block-start:1rem}article.small{block-size:12rem}article.medium{block-size:20rem}article.large{block-size:32rem}
+/*# sourceMappingURL=/sm/9c1386899f80c9e00dfac1cdfa79eefbcbe9370f5194061d5dc0624d8b3ee098.map */

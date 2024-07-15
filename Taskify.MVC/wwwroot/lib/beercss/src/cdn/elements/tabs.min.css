@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/elements/tabs.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+.tabs{display:flex;white-space:nowrap;border-block-end:0.0625rem solid var(--surface-variant)}.tabs:not(.left-align,.right-align,.center-align){justify-content:space-around}*+.tabs{margin-block-start:1rem}.tabs>a{display:flex;font-size:.875rem;font-weight:500;color:var(--on-surface-variant);padding:.5rem 1rem;text-align:center;min-block-size:3rem;inline-size:100%;gap:.25rem}.tabs.small>a{min-block-size:2rem}.tabs.large>a{min-block-size:4rem}.tabs>a.active,.tabs>a.active>i{color:var(--primary)}.tabs>a.active::before{content:'';position:absolute;inset:auto 0 0 0;block-size:0.125rem;background-color:var(--primary)}.tabs.min>a.active::before{margin:0 auto;max-inline-size:min(100%,4rem)}.tabs:is(.left-align,.center-align,.right-align)>a{inline-size:auto}
+/*# sourceMappingURL=/sm/062221eb925fd5c8c3af4b46e7cfcac89391f707bc1e984e97c01f58c52fb350.map */

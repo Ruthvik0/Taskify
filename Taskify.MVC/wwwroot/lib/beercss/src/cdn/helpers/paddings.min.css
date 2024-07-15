@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/helpers/paddings.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+[class*=padding]:not(.left-padding,.right-padding,.top-padding,.bottom-padding,.horizontal-padding,.vertical-padding){padding:var(---padding)!important}[class*=padding]{---padding:1rem}.no-padding{---padding:0}.tiny-padding{---padding:0.25rem}.small-padding{---padding:0.5rem}.large-padding{---padding:1.5rem}.horizontal-padding,.left-padding{padding-inline-start:var(---padding)!important}.horizontal-padding,.right-padding{padding-inline-end:var(---padding)!important}.top-padding,.vertical-padding{padding-block-start:var(---padding)!important}.bottom-padding,.vertical-padding{padding-block-end:var(---padding)!important}
+/*# sourceMappingURL=/sm/c079ce916d9f393a74feb9a3c6fc5829410dfaa1f0ffeb9f77b616b2859e0dad.map */

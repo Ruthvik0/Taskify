@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/elements/chips.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+.chip{box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;block-size:2rem;min-inline-size:2rem;font-size:.875rem;font-weight:500;background-color:transparent;border:.0625rem solid var(--outline);color:var(--on-surface-variant);padding:0 1rem;margin:0 .5rem;text-transform:none;border-radius:.5rem;transition:transform var(--speed3),border-radius var(--speed3),padding var(--speed3);user-select:none;gap:1rem;line-height:normal}.chip.fill:hover{box-shadow:var(--elevate1)}.chip.medium{block-size:2.5rem;min-inline-size:2.5rem}.chip.large{block-size:3rem;min-inline-size:3rem}.chip.fill{background-color:var(--secondary-container)!important;border:none}.chip.round.small{border-radius:1rem}.chip.round{border-radius:1.25rem}.chip.round.large{border-radius:1.5rem}
+/*# sourceMappingURL=/sm/eb628ae1663abe61c2b86d644d1b2241f4124e4f8237863db4deda30e39df376.map */

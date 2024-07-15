@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: /npm/beercss@3.6.8/src/cdn/helpers/dividers.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+[class*=divider]{min-inline-size:1.5rem;min-block-size:auto;block-size:0.0625rem;background-color:var(--outline-variant);display:block}[class*=divider]+*{margin:0!important}.medium-divider{margin:1rem 0!important}.large-divider{margin:1.5rem 0!important}.small-divider{margin:.5rem 0!important}.divider.vertical{min-inline-size:auto;min-block-size:1.5rem;inline-size:0.0625rem}
+/*# sourceMappingURL=/sm/a93e5228e414d0980740d2a718ddb690a7194b6cbc78f0d61e47d8a3de593d93.map */
